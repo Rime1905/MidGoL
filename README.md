@@ -1,2 +1,2 @@
-# MidGoL
-GameOfLife v2
+# Midtermtask
+CirclarPaintings
